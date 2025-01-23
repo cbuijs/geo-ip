@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1737547664 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1737634054 12h 15m 3w 3h
 @ NS dummy-ns
 dummy-ns A 0.0.0.0
 dummy-ns AAAA ::
@@ -16,7 +16,6 @@ pk CNAME .
 22.0.32.255.36.rpz-ip CNAME .
 21.0.40.255.36.rpz-ip CNAME .
 21.0.96.255.36.rpz-ip CNAME .
-22.0.212.255.36.rpz-ip CNAME .
 18.0.128.111.37.rpz-ip CNAME .
 11.0.0.32.39.rpz-ip CNAME .
 22.0.84.83.42.rpz-ip CNAME .
@@ -408,7 +407,6 @@ pk CNAME .
 22.0.76.209.103.rpz-ip CNAME .
 22.0.84.209.103.rpz-ip CNAME .
 22.0.4.210.103.rpz-ip CNAME .
-22.0.12.210.103.rpz-ip CNAME .
 23.0.224.210.103.rpz-ip CNAME .
 22.0.108.213.103.rpz-ip CNAME .
 22.0.112.213.103.rpz-ip CNAME .
@@ -907,7 +905,6 @@ pk CNAME .
 32.zz.5840.2404.rpz-ip CNAME .
 32.zz.6f40.2404.rpz-ip CNAME .
 32.zz.7000.2404.rpz-ip CNAME .
-32.zz.7680.2404.rpz-ip CNAME .
 32.zz.8300.2404.rpz-ip CNAME .
 32.zz.abc0.2404.rpz-ip CNAME .
 32.zz.c040.2404.rpz-ip CNAME .
