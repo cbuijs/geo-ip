@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1742299683 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742386063 12h 15m 3w 3h
 @ NS dummy-ns
 dummy-ns A 0.0.0.0
 dummy-ns AAAA ::
@@ -2830,6 +2830,7 @@ nl CNAME .
 19.0.64.39.65.rpz-ip CNAME .
 15.0.0.108.65.rpz-ip CNAME .
 19.0.0.111.65.rpz-ip CNAME .
+20.0.80.56.66.rpz-ip CNAME .
 22.0.32.151.66.rpz-ip CNAME .
 22.0.40.151.66.rpz-ip CNAME .
 19.0.0.201.66.rpz-ip CNAME .
@@ -4152,6 +4153,7 @@ nl CNAME .
 17.0.128.48.86.rpz-ip CNAME .
 23.0.4.54.86.rpz-ip CNAME .
 23.0.46.54.86.rpz-ip CNAME .
+24.0.99.54.86.rpz-ip CNAME .
 16.0.0.56.86.rpz-ip CNAME .
 22.0.200.58.86.rpz-ip CNAME .
 21.0.208.58.86.rpz-ip CNAME .
@@ -8854,6 +8856,7 @@ nl CNAME .
 24.0.39.0.185.rpz-ip CNAME .
 24.0.2.1.185.rpz-ip CNAME .
 24.0.8.1.185.rpz-ip CNAME .
+24.0.14.1.185.rpz-ip CNAME .
 24.0.18.1.185.rpz-ip CNAME .
 24.0.26.1.185.rpz-ip CNAME .
 24.0.28.1.185.rpz-ip CNAME .
@@ -21620,6 +21623,7 @@ nl CNAME .
 48.zz.ef4.67c.2001.rpz-ip CNAME .
 48.zz.efc.67c.2001.rpz-ip CNAME .
 48.zz.f00.67c.2001.rpz-ip CNAME .
+48.zz.f04.67c.2001.rpz-ip CNAME .
 48.zz.f08.67c.2001.rpz-ip CNAME .
 48.zz.f0c.67c.2001.rpz-ip CNAME .
 48.zz.f10.67c.2001.rpz-ip CNAME .
@@ -22319,7 +22323,7 @@ nl CNAME .
 48.zz.11c.7f8.2001.rpz-ip CNAME .
 48.zz.12a.7f8.2001.rpz-ip CNAME .
 48.zz.12d.7f8.2001.rpz-ip CNAME .
-48.zz.12f.7f8.2001.rpz-ip CNAME .
+47.zz.12e.7f8.2001.rpz-ip CNAME .
 48.zz.134.7f8.2001.rpz-ip CNAME .
 46.zz.138.7f8.2001.rpz-ip CNAME .
 48.zz.13c.7f8.2001.rpz-ip CNAME .
@@ -24472,7 +24476,6 @@ nl CNAME .
 32.zz.9d60.2a03.rpz-ip CNAME .
 29.zz.9e40.2a03.rpz-ip CNAME .
 32.zz.a080.2a03.rpz-ip CNAME .
-29.zz.a0a0.2a03.rpz-ip CNAME .
 32.zz.a140.2a03.rpz-ip CNAME .
 32.zz.a160.2a03.rpz-ip CNAME .
 32.zz.a1a0.2a03.rpz-ip CNAME .
@@ -28140,7 +28143,7 @@ nl CNAME .
 29.zz.4600.2a11.rpz-ip CNAME .
 29.zz.4740.2a11.rpz-ip CNAME .
 29.zz.4840.2a11.rpz-ip CNAME .
-32.zz.4880.2a11.rpz-ip CNAME .
+29.zz.4880.2a11.rpz-ip CNAME .
 29.zz.48c0.2a11.rpz-ip CNAME .
 29.zz.4940.2a11.rpz-ip CNAME .
 29.zz.4980.2a11.rpz-ip CNAME .
