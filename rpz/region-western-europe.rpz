@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1742472499 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1742558951 12h 15m 3w 3h
 @ NS dummy-ns
 dummy-ns A 0.0.0.0
 dummy-ns AAAA ::
@@ -3041,7 +3041,6 @@ nl CNAME .
 24.0.110.40.78.rpz-ip CNAME .
 22.0.112.40.78.rpz-ip CNAME .
 21.0.120.40.78.rpz-ip CNAME .
-21.0.192.40.78.rpz-ip CNAME .
 22.0.212.40.78.rpz-ip CNAME .
 21.0.48.41.78.rpz-ip CNAME .
 20.0.64.41.78.rpz-ip CNAME .
@@ -4757,6 +4756,7 @@ nl CNAME .
 24.0.184.108.91.rpz-ip CNAME .
 24.0.191.108.91.rpz-ip CNAME .
 19.0.0.109.91.rpz-ip CNAME .
+22.0.44.109.91.rpz-ip CNAME .
 21.0.120.109.91.rpz-ip CNAME .
 20.0.176.109.91.rpz-ip CNAME .
 14.0.0.112.91.rpz-ip CNAME .
@@ -6418,6 +6418,7 @@ nl CNAME .
 20.0.128.185.93.rpz-ip CNAME .
 22.0.160.185.93.rpz-ip CNAME .
 22.0.168.185.93.rpz-ip CNAME .
+21.0.216.185.93.rpz-ip CNAME .
 20.0.0.186.93.rpz-ip CNAME .
 19.0.160.186.93.rpz-ip CNAME .
 20.0.192.186.93.rpz-ip CNAME .
@@ -9351,8 +9352,7 @@ nl CNAME .
 22.0.232.28.185.rpz-ip CNAME .
 22.0.4.29.185.rpz-ip CNAME .
 22.0.28.29.185.rpz-ip CNAME .
-21.0.32.29.185.rpz-ip CNAME .
-22.0.40.29.185.rpz-ip CNAME .
+20.0.32.29.185.rpz-ip CNAME .
 22.0.60.29.185.rpz-ip CNAME .
 22.0.64.29.185.rpz-ip CNAME .
 22.0.88.29.185.rpz-ip CNAME .
@@ -10833,6 +10833,7 @@ nl CNAME .
 22.0.24.115.185.rpz-ip CNAME .
 22.0.48.115.185.rpz-ip CNAME .
 22.0.80.115.185.rpz-ip CNAME .
+22.0.88.115.185.rpz-ip CNAME .
 22.0.124.115.185.rpz-ip CNAME .
 22.0.128.115.185.rpz-ip CNAME .
 22.0.172.115.185.rpz-ip CNAME .
@@ -19437,6 +19438,7 @@ nl CNAME .
 23.0.8.200.198.rpz-ip CNAME .
 24.0.197.206.198.rpz-ip CNAME .
 23.0.200.206.198.rpz-ip CNAME .
+24.0.39.212.198.rpz-ip CNAME .
 17.0.128.240.198.rpz-ip CNAME .
 17.0.128.244.198.rpz-ip CNAME .
 22.0.28.19.199.rpz-ip CNAME .
@@ -21098,7 +21100,6 @@ nl CNAME .
 48.zz.d04.678.2001.rpz-ip CNAME .
 48.zz.d08.678.2001.rpz-ip CNAME .
 48.zz.d0c.678.2001.rpz-ip CNAME .
-48.zz.d18.678.2001.rpz-ip CNAME .
 48.zz.d1c.678.2001.rpz-ip CNAME .
 48.zz.d20.678.2001.rpz-ip CNAME .
 48.zz.d24.678.2001.rpz-ip CNAME .
