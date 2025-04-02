@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1743505637 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1743592051 12h 15m 3w 3h
 @ NS dummy-ns
 dummy-ns A 0.0.0.0
 dummy-ns AAAA ::
@@ -3933,6 +3933,7 @@ ye CNAME .
 15.0.0.36.86.rpz-ip CNAME .
 16.0.0.51.86.rpz-ip CNAME .
 24.0.81.54.86.rpz-ip CNAME .
+24.0.107.54.86.rpz-ip CNAME .
 24.0.184.54.86.rpz-ip CNAME .
 16.0.0.55.86.rpz-ip CNAME .
 17.0.0.57.86.rpz-ip CNAME .
@@ -9534,7 +9535,8 @@ ye CNAME .
 22.0.48.136.103.rpz-ip CNAME .
 23.0.52.136.103.rpz-ip CNAME .
 21.0.56.136.103.rpz-ip CNAME .
-20.0.64.136.103.rpz-ip CNAME .
+22.0.64.136.103.rpz-ip CNAME .
+21.0.72.136.103.rpz-ip CNAME .
 22.0.80.136.103.rpz-ip CNAME .
 24.0.84.136.103.rpz-ip CNAME .
 24.0.87.136.103.rpz-ip CNAME .
@@ -10143,7 +10145,8 @@ ye CNAME .
 21.0.152.149.103.rpz-ip CNAME .
 23.0.160.149.103.rpz-ip CNAME .
 22.0.164.149.103.rpz-ip CNAME .
-21.0.168.149.103.rpz-ip CNAME .
+23.0.170.149.103.rpz-ip CNAME .
+22.0.172.149.103.rpz-ip CNAME .
 21.0.176.149.103.rpz-ip CNAME .
 23.0.186.149.103.rpz-ip CNAME .
 22.0.188.149.103.rpz-ip CNAME .
@@ -16692,9 +16695,11 @@ ye CNAME .
 23.0.198.223.163.rpz-ip CNAME .
 21.0.200.223.163.rpz-ip CNAME .
 22.0.208.223.163.rpz-ip CNAME .
+24.0.213.223.163.rpz-ip CNAME .
 23.0.214.223.163.rpz-ip CNAME .
 23.0.216.223.163.rpz-ip CNAME .
-23.0.220.223.163.rpz-ip CNAME .
+22.0.220.223.163.rpz-ip CNAME .
+23.0.224.223.163.rpz-ip CNAME .
 15.0.0.224.163.rpz-ip CNAME .
 16.0.0.226.163.rpz-ip CNAME .
 24.0.1.227.163.rpz-ip CNAME .
@@ -30588,6 +30593,7 @@ ye CNAME .
 48.zz.4d00.df5.2001.rpz-ip CNAME .
 48.zz.4d40.df5.2001.rpz-ip CNAME .
 48.zz.4d80.df5.2001.rpz-ip CNAME .
+48.zz.4dc0.df5.2001.rpz-ip CNAME .
 48.zz.4e80.df5.2001.rpz-ip CNAME .
 48.zz.4f00.df5.2001.rpz-ip CNAME .
 48.zz.4f80.df5.2001.rpz-ip CNAME .
@@ -42289,6 +42295,7 @@ ye CNAME .
 29.zz.da00.2a14.rpz-ip CNAME .
 29.zz.db80.2a14.rpz-ip CNAME .
 29.zz.de00.2a14.rpz-ip CNAME .
+29.zz.de80.2a14.rpz-ip CNAME .
 29.zz.e300.2a14.rpz-ip CNAME .
 29.zz.e400.2a14.rpz-ip CNAME .
 29.zz.e500.2a14.rpz-ip CNAME .
