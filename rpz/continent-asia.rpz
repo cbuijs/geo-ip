@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1745492862 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1745579263 12h 15m 3w 3h
 @ NS dummy-ns
 dummy-ns A 0.0.0.0
 dummy-ns AAAA ::
@@ -451,7 +451,8 @@ ye CNAME .
 11.0.0.64.14.rpz-ip CNAME .
 14.0.0.96.14.rpz-ip CNAME .
 15.0.0.100.14.rpz-ip CNAME .
-22.0.0.102.14.rpz-ip CNAME .
+24.0.1.102.14.rpz-ip CNAME .
+23.0.2.102.14.rpz-ip CNAME .
 22.0.12.102.14.rpz-ip CNAME .
 23.0.22.102.14.rpz-ip CNAME .
 22.0.24.102.14.rpz-ip CNAME .
@@ -467,7 +468,8 @@ ye CNAME .
 22.0.72.102.14.rpz-ip CNAME .
 23.0.76.102.14.rpz-ip CNAME .
 24.0.78.102.14.rpz-ip CNAME .
-22.0.80.102.14.rpz-ip CNAME .
+23.0.80.102.14.rpz-ip CNAME .
+24.0.82.102.14.rpz-ip CNAME .
 24.0.88.102.14.rpz-ip CNAME .
 23.0.90.102.14.rpz-ip CNAME .
 22.0.92.102.14.rpz-ip CNAME .
@@ -2789,6 +2791,7 @@ ye CNAME .
 21.0.64.255.46.rpz-ip CNAME .
 21.0.120.255.46.rpz-ip CNAME .
 21.0.216.255.46.rpz-ip CNAME .
+21.0.232.255.46.rpz-ip CNAME .
 15.0.0.8.47.rpz-ip CNAME .
 16.0.0.11.47.rpz-ip CNAME .
 16.0.0.15.47.rpz-ip CNAME .
@@ -3468,6 +3471,7 @@ ye CNAME .
 20.0.32.139.79.rpz-ip CNAME .
 21.0.72.139.79.rpz-ip CNAME .
 21.0.88.139.79.rpz-ip CNAME .
+20.0.224.140.79.rpz-ip CNAME .
 20.0.224.141.79.rpz-ip CNAME .
 20.0.48.142.79.rpz-ip CNAME .
 24.0.93.142.79.rpz-ip CNAME .
@@ -3657,6 +3661,7 @@ ye CNAME .
 21.0.152.199.81.rpz-ip CNAME .
 19.0.160.199.81.rpz-ip CNAME .
 18.0.192.199.81.rpz-ip CNAME .
+23.0.140.200.81.rpz-ip CNAME .
 17.0.128.211.81.rpz-ip CNAME .
 14.0.0.212.81.rpz-ip CNAME .
 16.0.0.218.81.rpz-ip CNAME .
@@ -7843,7 +7848,9 @@ ye CNAME .
 24.0.125.82.103.rpz-ip CNAME .
 23.0.126.82.103.rpz-ip CNAME .
 22.0.132.82.103.rpz-ip CNAME .
-21.0.144.82.103.rpz-ip CNAME .
+22.0.144.82.103.rpz-ip CNAME .
+23.0.148.82.103.rpz-ip CNAME .
+24.0.150.82.103.rpz-ip CNAME .
 22.0.156.82.103.rpz-ip CNAME .
 22.0.164.82.103.rpz-ip CNAME .
 21.0.168.82.103.rpz-ip CNAME .
@@ -13996,7 +14003,6 @@ ye CNAME .
 23.0.224.69.114.rpz-ip CNAME .
 24.0.226.69.114.rpz-ip CNAME .
 22.0.228.69.114.rpz-ip CNAME .
-22.0.232.69.114.rpz-ip CNAME .
 24.0.240.69.114.rpz-ip CNAME .
 23.0.242.69.114.rpz-ip CNAME .
 23.0.248.69.114.rpz-ip CNAME .
@@ -15656,6 +15662,7 @@ ye CNAME .
 24.0.255.19.146.rpz-ip CNAME .
 16.0.0.51.146.rpz-ip CNAME .
 16.0.0.56.146.rpz-ip CNAME .
+21.0.16.66.146.rpz-ip CNAME .
 21.0.128.66.146.rpz-ip CNAME .
 22.0.24.88.146.rpz-ip CNAME .
 19.0.32.88.146.rpz-ip CNAME .
@@ -16758,6 +16765,8 @@ ye CNAME .
 23.0.132.227.163.rpz-ip CNAME .
 24.0.135.227.163.rpz-ip CNAME .
 23.0.138.227.163.rpz-ip CNAME .
+24.0.143.227.163.rpz-ip CNAME .
+21.0.144.227.163.rpz-ip CNAME .
 24.0.221.227.163.rpz-ip CNAME .
 24.0.225.227.163.rpz-ip CNAME .
 23.0.226.227.163.rpz-ip CNAME .
@@ -17295,6 +17304,7 @@ ye CNAME .
 19.0.64.214.178.rpz-ip CNAME .
 18.0.0.215.178.rpz-ip CNAME .
 20.0.208.215.178.rpz-ip CNAME .
+24.0.237.215.178.rpz-ip CNAME .
 21.0.32.216.178.rpz-ip CNAME .
 21.0.128.216.178.rpz-ip CNAME .
 24.0.175.216.178.rpz-ip CNAME .
@@ -18948,6 +18958,7 @@ ye CNAME .
 22.0.240.155.185.rpz-ip CNAME .
 22.0.4.156.185.rpz-ip CNAME .
 22.0.108.156.185.rpz-ip CNAME .
+23.0.148.156.185.rpz-ip CNAME .
 22.0.212.156.185.rpz-ip CNAME .
 22.0.236.156.185.rpz-ip CNAME .
 22.0.8.157.185.rpz-ip CNAME .
@@ -21614,6 +21625,7 @@ ye CNAME .
 24.0.115.78.195.rpz-ip CNAME .
 23.0.120.78.195.rpz-ip CNAME .
 22.0.232.78.195.rpz-ip CNAME .
+24.0.138.80.195.rpz-ip CNAME .
 24.0.227.80.195.rpz-ip CNAME .
 24.0.238.80.195.rpz-ip CNAME .
 19.0.0.82.195.rpz-ip CNAME .
@@ -30754,12 +30766,19 @@ ye CNAME .
 48.zz.6d80.df5.2001.rpz-ip CNAME .
 48.zz.6e40.df5.2001.rpz-ip CNAME .
 48.zz.6e80.df5.2001.rpz-ip CNAME .
+48.zz.6ec0.df5.2001.rpz-ip CNAME .
+48.zz.6f40.df5.2001.rpz-ip CNAME .
 48.zz.6f80.df5.2001.rpz-ip CNAME .
+48.zz.6fc0.df5.2001.rpz-ip CNAME .
 48.zz.7000.df5.2001.rpz-ip CNAME .
+48.zz.7040.df5.2001.rpz-ip CNAME .
 48.zz.7080.df5.2001.rpz-ip CNAME .
+48.zz.70c0.df5.2001.rpz-ip CNAME .
 48.zz.7100.df5.2001.rpz-ip CNAME .
+48.zz.7140.df5.2001.rpz-ip CNAME .
 48.zz.7180.df5.2001.rpz-ip CNAME .
 48.zz.7200.df5.2001.rpz-ip CNAME .
+48.zz.7240.df5.2001.rpz-ip CNAME .
 48.zz.7280.df5.2001.rpz-ip CNAME .
 48.zz.7300.df5.2001.rpz-ip CNAME .
 48.zz.7380.df5.2001.rpz-ip CNAME .
@@ -34639,6 +34658,7 @@ ye CNAME .
 32.zz.ffe0.2401.rpz-ip CNAME .
 22.zz.2402.rpz-ip CNAME .
 32.zz.400.2402.rpz-ip CNAME .
+32.zz.420.2402.rpz-ip CNAME .
 32.zz.440.2402.rpz-ip CNAME .
 32.zz.480.2402.rpz-ip CNAME .
 32.zz.500.2402.rpz-ip CNAME .
@@ -42443,4 +42463,5 @@ ye CNAME .
 29.zz.f880.2a14.rpz-ip CNAME .
 29.zz.fb00.2a14.rpz-ip CNAME .
 29.zz.fd00.2a14.rpz-ip CNAME .
+29.zz.fd80.2a14.rpz-ip CNAME .
 29.zz.ff00.2a14.rpz-ip CNAME .
