@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1752232031 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1752318355 12h 15m 3w 3h
 @ NS dummy-ns
 dummy-ns A 0.0.0.0
 dummy-ns AAAA ::
@@ -229,6 +229,7 @@ vi CNAME .
 19.0.64.68.45.rpz-ip CNAME .
 21.0.96.68.45.rpz-ip CNAME .
 24.0.104.68.45.rpz-ip CNAME .
+22.0.108.68.45.rpz-ip CNAME .
 15.0.0.70.45.rpz-ip CNAME .
 22.0.180.112.45.rpz-ip CNAME .
 22.0.92.114.45.rpz-ip CNAME .
@@ -408,10 +409,7 @@ vi CNAME .
 21.0.72.231.45.rpz-ip CNAME .
 20.0.80.231.45.rpz-ip CNAME .
 19.0.96.231.45.rpz-ip CNAME .
-19.0.128.231.45.rpz-ip CNAME .
-21.0.160.231.45.rpz-ip CNAME .
-22.0.168.231.45.rpz-ip CNAME .
-20.0.176.231.45.rpz-ip CNAME .
+18.0.128.231.45.rpz-ip CNAME .
 21.0.192.231.45.rpz-ip CNAME .
 22.0.200.231.45.rpz-ip CNAME .
 23.0.204.231.45.rpz-ip CNAME .
@@ -4571,6 +4569,7 @@ vi CNAME .
 40.zz.168.2801.rpz-ip CNAME .
 36.zz.169.2801.rpz-ip CNAME .
 44.zz.16a.2801.rpz-ip CNAME .
+44.zz.16d.2801.rpz-ip CNAME .
 40.zz.16e.2801.rpz-ip CNAME .
 36.zz.170.2801.rpz-ip CNAME .
 44.zz.171.2801.rpz-ip CNAME .
@@ -5412,6 +5411,7 @@ vi CNAME .
 32.zz.4560.2803.rpz-ip CNAME .
 32.zz.4580.2803.rpz-ip CNAME .
 32.zz.4590.2803.rpz-ip CNAME .
+32.zz.45d0.2803.rpz-ip CNAME .
 32.zz.45e0.2803.rpz-ip CNAME .
 32.zz.4600.2803.rpz-ip CNAME .
 32.zz.4610.2803.rpz-ip CNAME .
@@ -6095,6 +6095,7 @@ vi CNAME .
 32.zz.8580.2803.rpz-ip CNAME .
 32.zz.8590.2803.rpz-ip CNAME .
 32.zz.85a0.2803.rpz-ip CNAME .
+32.zz.85d0.2803.rpz-ip CNAME .
 32.zz.85e0.2803.rpz-ip CNAME .
 32.zz.8600.2803.rpz-ip CNAME .
 32.zz.8610.2803.rpz-ip CNAME .
@@ -11325,6 +11326,7 @@ vi CNAME .
 32.zz.4a04.2804.rpz-ip CNAME .
 32.zz.4a08.2804.rpz-ip CNAME .
 32.zz.4a0c.2804.rpz-ip CNAME .
+32.zz.4a10.2804.rpz-ip CNAME .
 32.zz.4a14.2804.rpz-ip CNAME .
 32.zz.4a18.2804.rpz-ip CNAME .
 32.zz.4a1c.2804.rpz-ip CNAME .
@@ -15613,6 +15615,7 @@ vi CNAME .
 32.zz.94c8.2804.rpz-ip CNAME .
 32.zz.94cc.2804.rpz-ip CNAME .
 32.zz.94d0.2804.rpz-ip CNAME .
+32.zz.94d4.2804.rpz-ip CNAME .
 28.zz.2806.rpz-ip CNAME .
 32.zz.200.2806.rpz-ip CNAME .
 31.zz.202.2806.rpz-ip CNAME .
