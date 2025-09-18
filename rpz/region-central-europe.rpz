@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1758107259 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1758193750 12h 15m 3w 3h
 @ NS dummy-ns
 dummy-ns A 0.0.0.0
 dummy-ns AAAA ::
@@ -1962,7 +1962,6 @@ sk CNAME .
 17.0.128.99.62.rpz-ip CNAME .
 19.0.224.100.62.rpz-ip CNAME .
 19.0.192.102.62.rpz-ip CNAME .
-16.0.0.104.62.rpz-ip CNAME .
 24.0.65.106.62.rpz-ip CNAME .
 24.0.70.106.62.rpz-ip CNAME .
 24.0.72.106.62.rpz-ip CNAME .
@@ -3552,7 +3551,14 @@ sk CNAME .
 21.0.144.46.89.rpz-ip CNAME .
 21.0.232.46.89.rpz-ip CNAME .
 22.0.48.47.89.rpz-ip CNAME .
-13.0.0.56.89.rpz-ip CNAME .
+15.0.0.56.89.rpz-ip CNAME .
+18.0.0.58.89.rpz-ip CNAME .
+19.0.64.58.89.rpz-ip CNAME .
+21.0.96.58.89.rpz-ip CNAME .
+20.0.112.58.89.rpz-ip CNAME .
+19.0.128.58.89.rpz-ip CNAME .
+18.0.192.58.89.rpz-ip CNAME .
+16.0.0.63.89.rpz-ip CNAME .
 12.0.0.64.89.rpz-ip CNAME .
 15.0.0.102.89.rpz-ip CNAME .
 19.0.0.104.89.rpz-ip CNAME .
@@ -7534,7 +7540,8 @@ sk CNAME .
 20.0.16.212.178.rpz-ip CNAME .
 22.0.32.212.178.rpz-ip CNAME .
 21.0.40.212.178.rpz-ip CNAME .
-21.0.48.212.178.rpz-ip CNAME .
+22.0.48.212.178.rpz-ip CNAME .
+24.0.55.212.178.rpz-ip CNAME .
 24.0.73.212.178.rpz-ip CNAME .
 24.0.75.212.178.rpz-ip CNAME .
 24.0.76.212.178.rpz-ip CNAME .
@@ -14968,7 +14975,12 @@ sk CNAME .
 22.0.124.93.194.rpz-ip CNAME .
 19.0.160.93.194.rpz-ip CNAME .
 15.0.0.94.194.rpz-ip CNAME .
-15.0.0.96.194.rpz-ip CNAME .
+16.0.0.96.194.rpz-ip CNAME .
+19.0.0.97.194.rpz-ip CNAME .
+18.0.64.97.194.rpz-ip CNAME .
+19.0.128.97.194.rpz-ip CNAME .
+22.0.172.97.194.rpz-ip CNAME .
+19.0.192.97.194.rpz-ip CNAME .
 21.0.0.99.194.rpz-ip CNAME .
 22.0.12.99.194.rpz-ip CNAME .
 22.0.28.99.194.rpz-ip CNAME .
@@ -15717,7 +15729,10 @@ sk CNAME .
 22.0.220.3.195.rpz-ip CNAME .
 22.0.232.3.195.rpz-ip CNAME .
 22.0.248.3.195.rpz-ip CNAME .
-16.0.0.4.195.rpz-ip CNAME .
+23.0.92.4.195.rpz-ip CNAME .
+18.0.128.4.195.rpz-ip CNAME .
+20.0.192.4.195.rpz-ip CNAME .
+21.0.208.4.195.rpz-ip CNAME .
 22.0.96.5.195.rpz-ip CNAME .
 24.0.110.5.195.rpz-ip CNAME .
 23.0.120.5.195.rpz-ip CNAME .
