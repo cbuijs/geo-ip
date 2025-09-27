@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1758884913 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1758971297 12h 15m 3w 3h
 @ NS dummy-ns
 dummy-ns A 0.0.0.0
 dummy-ns AAAA ::
@@ -1188,6 +1188,7 @@ pa CNAME .
 48.zz.c800.15.2801.rpz-ip CNAME .
 48.zz.d800.15.2801.rpz-ip CNAME .
 44.zz.e800.15.2801.rpz-ip CNAME .
+48.zz.400.16.2801.rpz-ip CNAME .
 48.zz.800.16.2801.rpz-ip CNAME .
 48.zz.1800.16.2801.rpz-ip CNAME .
 48.zz.2000.16.2801.rpz-ip CNAME .
