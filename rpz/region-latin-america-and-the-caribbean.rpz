@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1764763663 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1764850141 12h 15m 3w 3h
 @ NS dummy-ns
 dummy-ns A 0.0.0.0
 dummy-ns AAAA ::
@@ -213,6 +213,7 @@ vi CNAME .
 21.0.96.68.45.rpz-ip CNAME .
 24.0.104.68.45.rpz-ip CNAME .
 22.0.108.68.45.rpz-ip CNAME .
+24.0.112.68.45.rpz-ip CNAME .
 16.0.0.70.45.rpz-ip CNAME .
 17.0.0.71.45.rpz-ip CNAME .
 18.0.128.71.45.rpz-ip CNAME .
@@ -281,9 +282,7 @@ vi CNAME .
 16.0.0.176.45.rpz-ip CNAME .
 17.0.0.177.45.rpz-ip CNAME .
 18.0.128.177.45.rpz-ip CNAME .
-20.0.192.177.45.rpz-ip CNAME .
-21.0.208.177.45.rpz-ip CNAME .
-22.0.216.177.45.rpz-ip CNAME .
+19.0.192.177.45.rpz-ip CNAME .
 21.0.224.177.45.rpz-ip CNAME .
 22.0.232.177.45.rpz-ip CNAME .
 20.0.240.177.45.rpz-ip CNAME .
@@ -1031,6 +1030,7 @@ vi CNAME .
 23.0.38.96.172.rpz-ip CNAME .
 22.0.168.96.172.rpz-ip CNAME .
 22.0.184.99.172.rpz-ip CNAME .
+16.0.0.216.172.rpz-ip CNAME .
 18.0.128.211.173.rpz-ip CNAME .
 17.0.128.215.173.rpz-ip CNAME .
 21.0.72.225.173.rpz-ip CNAME .
@@ -4178,6 +4178,7 @@ vi CNAME .
 48.zz.1b0.81.2801.rpz-ip CNAME .
 48.zz.1c0.81.2801.rpz-ip CNAME .
 48.zz.1d0.81.2801.rpz-ip CNAME .
+48.zz.1e0.81.2801.rpz-ip CNAME .
 32.zz.82.2801.rpz-ip CNAME .
 32.zz.84.2801.rpz-ip CNAME .
 32.zz.86.2801.rpz-ip CNAME .
@@ -5858,6 +5859,7 @@ vi CNAME .
 32.zz.8000.2803.rpz-ip CNAME .
 32.zz.8010.2803.rpz-ip CNAME .
 32.zz.8020.2803.rpz-ip CNAME .
+32.zz.8030.2803.rpz-ip CNAME .
 32.zz.8040.2803.rpz-ip CNAME .
 32.zz.8050.2803.rpz-ip CNAME .
 32.zz.8060.2803.rpz-ip CNAME .
@@ -12318,6 +12320,7 @@ vi CNAME .
 32.zz.5ea0.2804.rpz-ip CNAME .
 32.zz.5ea4.2804.rpz-ip CNAME .
 32.zz.5ea8.2804.rpz-ip CNAME .
+32.zz.5eac.2804.rpz-ip CNAME .
 32.zz.5eb0.2804.rpz-ip CNAME .
 32.zz.5eb4.2804.rpz-ip CNAME .
 32.zz.5eb8.2804.rpz-ip CNAME .
@@ -15528,6 +15531,7 @@ vi CNAME .
 32.zz.96f0.2804.rpz-ip CNAME .
 32.zz.96f4.2804.rpz-ip CNAME .
 32.zz.96f8.2804.rpz-ip CNAME .
+32.zz.96fc.2804.rpz-ip CNAME .
 28.zz.2806.rpz-ip CNAME .
 32.zz.200.2806.rpz-ip CNAME .
 31.zz.202.2806.rpz-ip CNAME .
