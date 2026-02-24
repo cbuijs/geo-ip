@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1771848539 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1771935010 12h 15m 3w 3h
 @ NS dummy-ns
 dummy-ns A 0.0.0.0
 dummy-ns AAAA ::
@@ -1062,6 +1062,7 @@ gb CNAME .
 21.0.120.181.65.rpz-ip CNAME .
 23.0.92.33.66.rpz-ip CNAME .
 22.0.96.51.66.rpz-ip CNAME .
+24.0.29.179.66.rpz-ip CNAME .
 19.0.96.180.66.rpz-ip CNAME .
 22.0.52.208.67.rpz-ip CNAME .
 19.0.32.168.68.rpz-ip CNAME .
@@ -1560,6 +1561,7 @@ gb CNAME .
 16.0.0.45.84.rpz-ip CNAME .
 18.0.128.51.84.rpz-ip CNAME .
 13.0.0.64.84.rpz-ip CNAME .
+16.0.0.75.84.rpz-ip CNAME .
 16.0.0.81.84.rpz-ip CNAME .
 15.0.0.92.84.rpz-ip CNAME .
 24.0.161.205.84.rpz-ip CNAME .
@@ -3435,7 +3437,6 @@ gb CNAME .
 16.0.0.206.151.rpz-ip CNAME .
 16.0.0.211.151.rpz-ip CNAME .
 16.0.0.212.151.rpz-ip CNAME .
-21.0.32.216.151.rpz-ip CNAME .
 13.0.0.224.151.rpz-ip CNAME .
 19.0.32.236.151.rpz-ip CNAME .
 21.0.208.236.151.rpz-ip CNAME .
@@ -7089,7 +7090,6 @@ gb CNAME .
 19.0.224.54.195.rpz-ip CNAME .
 19.0.64.58.195.rpz-ip CNAME .
 20.0.128.58.195.rpz-ip CNAME .
-21.0.144.58.195.rpz-ip CNAME .
 22.0.156.58.195.rpz-ip CNAME .
 19.0.192.58.195.rpz-ip CNAME .
 16.0.0.59.195.rpz-ip CNAME .
@@ -7379,6 +7379,7 @@ gb CNAME .
 16.0.0.50.199.rpz-ip CNAME .
 21.0.56.103.199.rpz-ip CNAME .
 16.0.0.118.199.rpz-ip CNAME .
+24.0.230.120.199.rpz-ip CNAME .
 21.0.48.175.199.rpz-ip CNAME .
 24.0.77.181.199.rpz-ip CNAME .
 24.0.145.244.199.rpz-ip CNAME .
@@ -7399,6 +7400,7 @@ gb CNAME .
 24.0.105.187.204.rpz-ip CNAME .
 19.0.160.157.205.rpz-ip CNAME .
 24.0.40.210.205.rpz-ip CNAME .
+24.0.210.209.206.rpz-ip CNAME .
 18.0.192.245.206.rpz-ip CNAME .
 16.0.0.103.207.rpz-ip CNAME .
 21.0.208.211.207.rpz-ip CNAME .
@@ -7967,7 +7969,10 @@ gb CNAME .
 19.0.0.177.217.rpz-ip CNAME .
 21.0.32.177.217.rpz-ip CNAME .
 21.0.56.177.217.rpz-ip CNAME .
-18.0.64.177.217.rpz-ip CNAME .
+21.0.64.177.217.rpz-ip CNAME .
+22.0.76.177.217.rpz-ip CNAME .
+20.0.80.177.217.rpz-ip CNAME .
+19.0.96.177.217.rpz-ip CNAME .
 19.0.0.179.217.rpz-ip CNAME .
 20.0.32.179.217.rpz-ip CNAME .
 22.0.52.179.217.rpz-ip CNAME .
