@@ -1,5 +1,5 @@
 $TTL 3600
-@ SOA dummy-ns hostmaster 1788433694 12h 15m 3w 3h
+@ SOA dummy-ns hostmaster 1788520115 12h 15m 3w 3h
 @ NS dummy-ns
 dummy-ns A 0.0.0.0
 dummy-ns AAAA ::
@@ -567,6 +567,7 @@ vu CNAME .
 21.0.232.65.68.rpz-ip CNAME .
 24.0.211.31.78.rpz-ip CNAME .
 23.0.10.138.78.rpz-ip CNAME .
+18.0.0.43.80.rpz-ip CNAME .
 20.0.0.249.80.rpz-ip CNAME .
 20.0.240.97.82.rpz-ip CNAME .
 21.0.0.115.82.rpz-ip CNAME .
@@ -7024,6 +7025,9 @@ vu CNAME .
 24.0.86.52.163.rpz-ip CNAME .
 22.0.88.52.163.rpz-ip CNAME .
 23.0.92.52.163.rpz-ip CNAME .
+24.0.101.52.163.rpz-ip CNAME .
+24.0.106.52.163.rpz-ip CNAME .
+23.0.110.52.163.rpz-ip CNAME .
 22.0.20.53.163.rpz-ip CNAME .
 22.0.32.53.163.rpz-ip CNAME .
 22.0.68.53.163.rpz-ip CNAME .
@@ -13679,8 +13683,11 @@ vu CNAME .
 48.zz.6dc0.df7.2001.rpz-ip CNAME .
 48.zz.6f00.df7.2001.rpz-ip CNAME .
 48.zz.6f40.df7.2001.rpz-ip CNAME .
+48.zz.70c0.df7.2001.rpz-ip CNAME .
 48.zz.7100.df7.2001.rpz-ip CNAME .
+48.zz.7140.df7.2001.rpz-ip CNAME .
 48.zz.7180.df7.2001.rpz-ip CNAME .
+48.zz.71c0.df7.2001.rpz-ip CNAME .
 48.zz.7200.df7.2001.rpz-ip CNAME .
 48.zz.7400.df7.2001.rpz-ip CNAME .
 48.zz.7500.df7.2001.rpz-ip CNAME .
@@ -14567,6 +14574,7 @@ vu CNAME .
 32.zz.72e0.2402.rpz-ip CNAME .
 32.zz.7320.2402.rpz-ip CNAME .
 32.zz.7340.2402.rpz-ip CNAME .
+32.zz.73a0.2402.rpz-ip CNAME .
 32.zz.7400.2402.rpz-ip CNAME .
 32.zz.7600.2402.rpz-ip CNAME .
 32.zz.7640.2402.rpz-ip CNAME .
